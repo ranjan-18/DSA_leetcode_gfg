@@ -28,4 +28,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/2390-removing-stars-from-a-string/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 <!---LeetCode Topics End-->
