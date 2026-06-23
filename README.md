@@ -15,8 +15,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/1189-maximum-number-of-balloons/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2390-removing-stars-from-a-string](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/2390-removing-stars-from-a-string/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2390-removing-stars-from-a-string](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/2390-removing-stars-from-a-string/) | Medium |
 <!---LeetCode Topics End-->
