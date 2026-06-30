@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1189-maximum-number-of-balloons](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [2063-vowels-of-all-substrings](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/2063-vowels-of-all-substrings/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
@@ -51,10 +52,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/0070-climbing-stairs/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [2063-vowels-of-all-substrings](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/2063-vowels-of-all-substrings/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/0070-climbing-stairs/) | Easy |
+| [2063-vowels-of-all-substrings](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/2063-vowels-of-all-substrings/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -93,4 +96,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2063-vowels-of-all-substrings](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/2063-vowels-of-all-substrings/) | Medium |
 <!---LeetCode Topics End-->
