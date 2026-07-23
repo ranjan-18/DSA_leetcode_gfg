@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/0070-climbing-stairs/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [2063-vowels-of-all-substrings](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/2063-vowels-of-all-substrings/) | Medium |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -108,4 +109,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2063-vowels-of-all-substrings](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/2063-vowels-of-all-substrings/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 <!---LeetCode Topics End-->
