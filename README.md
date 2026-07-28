@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
