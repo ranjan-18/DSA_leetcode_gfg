@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/0486-predict-the-winner/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0877-stone-game](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/0877-stone-game/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/0486-predict-the-winner/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0877-stone-game](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/0877-stone-game/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2063-vowels-of-all-substrings](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/2063-vowels-of-all-substrings/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -77,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/0070-climbing-stairs/) | Easy |
 | [0486-predict-the-winner](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/0877-stone-game/) | Medium |
 | [2063-vowels-of-all-substrings](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/2063-vowels-of-all-substrings/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
@@ -149,4 +152,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
