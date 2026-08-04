@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
+| [3731-find-missing-elements](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Hash Table
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
+| [3731-find-missing-elements](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## String
@@ -128,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+| [3731-find-missing-elements](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/3731-find-missing-elements/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
