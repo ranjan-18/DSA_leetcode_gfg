@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1406-stone-game-iii](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/1406-stone-game-iii/) | Hard |
 | [1903-largest-odd-number-in-string](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2063-vowels-of-all-substrings](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/2063-vowels-of-all-substrings/) | Medium |
+| [3345-smallest-divisible-digit-product-i](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -170,4 +171,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1406-stone-game-iii](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/1406-stone-game-iii/) | Hard |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 <!---LeetCode Topics End-->
