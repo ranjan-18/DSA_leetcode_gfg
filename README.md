@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2063-vowels-of-all-substrings](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/2063-vowels-of-all-substrings/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
@@ -88,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/1406-stone-game-iii/) | Hard |
 | [2063-vowels-of-all-substrings](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/2063-vowels-of-all-substrings/) | Medium |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -124,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -153,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
