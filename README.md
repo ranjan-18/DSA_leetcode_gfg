@@ -179,4 +179,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
