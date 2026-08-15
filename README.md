@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/0009-palindrome-number/) | Easy |
 | [0070-climbing-stairs](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/0070-climbing-stairs/) | Easy |
 | [0486-predict-the-winner](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/0486-predict-the-winner/) | Medium |
+| [0509-fibonacci-number](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/0509-fibonacci-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/0877-stone-game/) | Medium |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/0070-climbing-stairs/) | Easy |
 | [0486-predict-the-winner](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/0486-predict-the-winner/) | Medium |
+| [0509-fibonacci-number](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/0509-fibonacci-number/) | Easy |
 | [0877-stone-game](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/1406-stone-game-iii/) | Hard |
 | [2063-vowels-of-all-substrings](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/2063-vowels-of-all-substrings/) | Medium |
@@ -99,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/0070-climbing-stairs/) | Easy |
+| [0509-fibonacci-number](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/0509-fibonacci-number/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -168,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/0486-predict-the-winner/) | Medium |
+| [0509-fibonacci-number](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/0509-fibonacci-number/) | Easy |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
