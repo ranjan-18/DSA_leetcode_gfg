@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/0001-two-sum/) | Easy |
+| [0169-majority-element](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/0169-majority-element/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0486-predict-the-winner](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/0486-predict-the-winner/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/0523-continuous-subarray-sum/) | Medium |
@@ -27,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0169-majority-element](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/0169-majority-element/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
@@ -56,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/0169-majority-element/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -105,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/0169-majority-element/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Segment Tree
@@ -140,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/0169-majority-element/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -202,4 +207,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
