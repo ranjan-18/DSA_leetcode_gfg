@@ -1,24 +1,29 @@
 class Solution {
 public:
-   int f(int i,vector<int>&dp)
-   {
-  
-    if(i==1)
-    return 1;
-    
-      if(i==2)
-    return 2;
+    int f(int i,vector<int>&dp)
+    {
+        // base condn
+        if(i==1)
+        return 1;
 
-    if(dp[i]!=-1)
-    return dp[i];
+        if(i==2)
+        return 2;
 
-    int l=f(i-1,dp);
-    int r=f(i-2,dp);
+      
+      if(dp[i]!=-1)
+      return dp[i];
 
-    return dp[i]=l+r;
-   }
+
+        int l=f(i-1,dp);
+        int r=f(i-2,dp);
+
+        return dp[i]=l+r;
+
+
+    }
     int climbStairs(int n) {
-     vector<int>dp(n+1,-1);
-     return f(n,dp);   
+        // 1 ) dp array intialize 
+        vector<int>dp(n+1,-1);
+        return f(n,dp);
     }
 };
