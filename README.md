@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1903-largest-odd-number-in-string](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2063-vowels-of-all-substrings](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/2063-vowels-of-all-substrings/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
