@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169-majority-element](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/0169-majority-element/) | Easy |
 | [0198-house-robber](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/0213-house-robber-ii/) | Medium |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/0070-climbing-stairs/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/0213-house-robber-ii/) | Medium |
 | [0486-predict-the-winner](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/0486-predict-the-winner/) | Medium |
