@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/0001-two-sum/) | Easy |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/0169-majority-element/) | Easy |
 | [0198-house-robber](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/0213-house-robber-ii/) | Medium |
@@ -175,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Recursion
