@@ -1,25 +1,16 @@
 class Solution {
     public int removeDuplicates(int[] nums) {
-    int n=nums.length;
-
-    int ind=0;
-    for(int i=0;i<n;i++)
-    {
-        boolean duplicate=false;
-        for(int j=i+1;j<n;j++)
+        int n=nums.length;
+        TreeSet<Integer> hs = new TreeSet<>();
+        for(int i:nums)
         {
-            if(nums[i]==nums[j])
-            {
-                duplicate=true;
-                break;
-            }
+            hs.add(i);
         }
-
-        if(!duplicate)
+        int ind=0;
+        for(int i:hs)
         {
-            nums[ind++]=nums[i];
+            nums[ind++]=i;
         }
-    }  
-    return ind;  
+        return ind;
     }
 }
