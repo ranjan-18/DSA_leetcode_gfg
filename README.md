@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3718-smallest-missing-multiple-of-k](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
