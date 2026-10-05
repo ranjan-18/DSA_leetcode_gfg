@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Simulation
@@ -216,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -224,9 +226,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/0169-majority-element/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
