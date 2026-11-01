@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/0169-majority-element/) | Easy |
 | [0198-house-robber](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/0213-house-robber-ii/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0486-predict-the-winner](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/0486-predict-the-winner/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/0523-continuous-subarray-sum/) | Medium |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/0009-palindrome-number/) | Easy |
 | [0050-powx-n](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/0050-powx-n/) | Medium |
 | [0070-climbing-stairs](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/0070-climbing-stairs/) | Easy |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0486-predict-the-winner](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/0509-fibonacci-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/ranjan-18/DSA_leetcode_gfg/tree/main/0523-continuous-subarray-sum/) | Medium |
